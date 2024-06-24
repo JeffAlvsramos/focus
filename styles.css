@@ -15,11 +15,6 @@ img.fosca {
     transition: filter 0.3s ease; /* Transição suave */
 }
 
-mg.fosca2 {
-    filter: blur(4px); /* Aplica um efeito de desfoque */
-    transition: filter 0.3s ease; /* Transição suave */
-}
-
 a {
     color: black;
     display: flex;
@@ -29,24 +24,24 @@ a {
 
 }
 
-.bloco_2 {
+.persona {
     border-radius: 10%;
     margin: 2%;
 }
 
-.bloco_1 :hover {
+.image1 :hover {
     transform: scale(1.1);  
 }
 
-.bloco_2 :hover {
+.image2 :hover {
     transform: scale(1.1);  
 }
 
-.bloco_3 :hover {
+.image3 :hover {
     transform: scale(1.1);  
 }
 
-.bloco_4 :hover {
+.image4 :hover {
     transform: scale(1.1);  
 }
 
