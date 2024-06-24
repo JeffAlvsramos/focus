@@ -7,7 +7,7 @@ body {
     align-item: center;
     justify-content: center;
     display: flex;
-    column-gap: 25px;
+    margin: 2%;
     
 }
 
@@ -29,30 +29,21 @@ a {
     border-radius: 10%;
     margin: 2%;
     justify-content: center;
-    transform: scale(1.1);
 }
 
 .persona_2 {
     border-radius: 10%;
     margin: 2%;
     justify-content: center;
-    transform: scale(1.1);
+  
 }
 
-.sub :hover {
-    transform: scale(1.1);  
+.persona :hover {
+   transform: scale(1.1);
 }
 
-.image2 :hover {
-    transform: scale(1.1);  
-}
-
-.image3 :hover {
-    transform: scale(1.1);  
-}
-
-.image4 :hover {
-    transform: scale(1.1);  
+.persona_2 :hover {
+   transform: scale(1.1);
 }
 
 img {
