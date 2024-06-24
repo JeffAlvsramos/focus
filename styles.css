@@ -27,6 +27,7 @@ a {
 .persona {
     border-radius: 10%;
     margin: 2%;
+   justify-content: center;
 }
 
 .sub :hover {
