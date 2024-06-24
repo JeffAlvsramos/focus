@@ -6,6 +6,8 @@
 body {
     justify-content: center;
     display: flex;
+    column-gap: 25px;
+    
 }
 
 img.fosca {
@@ -45,10 +47,6 @@ a {
 }
 
 .bloco_4 :hover {
-    transform: scale(1.1);  
-}
-
-.bloco_2 :hover {
     transform: scale(1.1);  
 }
 
